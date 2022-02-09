@@ -23,8 +23,8 @@
 #include "timedata.h"
 #include "util.h"
 #include "utilmoneystr.h"
-#include "wallet/wallet.h"
 #ifdef ENABLE_WALLET
+#include "wallet/wallet.h"
 #endif
 #include "validationinterface.h"
 #include "masternode-payments.h"
