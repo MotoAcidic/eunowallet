@@ -18,8 +18,8 @@
 #include "spork.h"
 #include "timedata.h"
 #include "util.h"
-#ifdef ENABLE_WALLET
 #include "wallet/wallet.h"
+#ifdef ENABLE_WALLET
 #include "wallet/walletdb.h"
 #endif
 

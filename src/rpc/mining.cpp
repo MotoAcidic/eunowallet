@@ -17,9 +17,9 @@
 #include "rpc/server.h"
 #include "util.h"
 #include "validationinterface.h"
+#include "wallet/wallet.h"
 #ifdef ENABLE_WALLET
 #include "wallet/db.h"
-#include "wallet/wallet.h"
 #endif
 
 #include <stdint.h>

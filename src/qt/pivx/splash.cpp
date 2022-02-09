@@ -12,10 +12,7 @@
 #include "util.h"
 #include "version.h"
 #include "guiutil.h"
-
-#ifdef ENABLE_WALLET
 #include "wallet/wallet.h"
-#endif
 
 #include <QCloseEvent>
 #include <QDesktopWidget>
