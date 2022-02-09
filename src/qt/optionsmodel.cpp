@@ -20,10 +20,10 @@
 #include "netbase.h"
 #include "txdb.h" // for -dbcache defaults
 #include "util.h"
-#include "wallet/wallet.h"
 
 #ifdef ENABLE_WALLET
 #include "masternodeconfig.h"
+#include "wallet/wallet.h"
 #include "wallet/walletdb.h"
 #endif
 

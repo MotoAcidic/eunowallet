@@ -51,10 +51,10 @@
 #include "util/threadnames.h"
 #include "validationinterface.h"
 #include "zpivchain.h"
-#include "wallet/wallet.h"
 
 #ifdef ENABLE_WALLET
 #include "wallet/db.h"
+#include "wallet/wallet.h"
 #include "wallet/walletdb.h"
 #include "wallet/rpcwallet.h"
 

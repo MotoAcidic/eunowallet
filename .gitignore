@@ -149,17 +149,3 @@ pivxd-new-gui.*
 /src/euno-cli
 /src/euno-tx
 /src/eunod
-
-.vs/eunowallet/v17/Browse.VC.db-shm
-
-.vs/eunowallet/v17/Browse.VC.db-wal
-
-.vs/eunowallet/v17/Browse.VC.opendb
-
-.vs/ProjectSettings.json
-
-.vs/slnx.sqlite
-
-.vs/eunowallet/v17/.suo
-
-.vs/eunowallet/v17/Browse.VC.db
